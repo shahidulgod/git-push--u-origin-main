@@ -1,0 +1,17 @@
+//  console.log("goodday");
+// var x=5;
+// var x=10;
+//  console.log(x)
+
+
+// var x=25.45;
+// var y=parseInt(x)
+// console.log(parseInt(y));
+
+// var num="15.36"
+// var num1=parseFloat(num)
+// console.log (num1)
+var number="25.43567"
+console.log(typeof number)
+var
+
